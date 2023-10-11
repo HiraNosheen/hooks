@@ -1,0 +1,55 @@
+h1 {
+  text-align: center;
+  margin: 0%;
+  padding: 6px;
+}
+
+.movie {
+  background-color: rgb(236, 247, 241);
+  padding: 5px;
+  border: 2px solid black;
+  margin-top: 30px ;
+  align-items: center;
+  width: 20%;
+}
+.movie img {
+  height: 280px;
+  width: 100%
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+}
+
+.header {
+  background-color: #845EC2;
+  color:#ebeb1e;
+  font-size: 2.5rem;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  margin-top: 200px;
+  justify-content: center;
+  align-items: center; 
+  padding: 14px;
+}
+.btn{
+  margin: 8px;
+  padding: 8px;
+  background-color: #845EC2;
+  color:#ebeb1e;
+   font-weight:bold ;
+}
+.heading{
+ font-size: 80px;
+ color: #a81c93;
+} 
+.buttons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
